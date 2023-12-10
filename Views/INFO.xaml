@@ -14,14 +14,14 @@
 
             <Image Source="tuki.jpg"
                    Aspect="AspectFill"
-                   Opacity="0.3"
+                   Opacity="0.8"
                    AbsoluteLayout.LayoutFlags="All"
                    AbsoluteLayout.LayoutBounds="0,0,1,1"/>
 
             
             <StackLayout AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0,0,1,1" Padding="20">
                 <Label FontFamily="Lobster"
-                       TextColor="Black"
+                       TextColor="White"
                        HorizontalOptions="Center"
                        VerticalOptions="CenterAndExpand">
                     <Label.FormattedText>
